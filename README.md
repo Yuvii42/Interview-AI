@@ -16,3 +16,16 @@ Interview-AI is an intelligent, interactive mock interview platform designed to 
 🔹 Seamless navigation and interactive experience
 
 🔹 Ideal for students, job seekers, and interview prep platforms
+
+
+**Here Are Some of UI of the Website:**
+
+**First UI:**
+<img width="1886" height="968" alt="image" src="https://github.com/user-attachments/assets/c1b65292-9d80-41a9-a22c-b6e34c7eaec4" />
+
+**Second UI:** 
+<img width="1895" height="945" alt="image" src="https://github.com/user-attachments/assets/4e2c236e-53d7-4cba-b8eb-c7e9fb78026b" />
+
+**Third UI:**
+<img width="1883" height="956" alt="image" src="https://github.com/user-attachments/assets/14601e0e-c319-4503-b8d3-473095c14782" />
+
